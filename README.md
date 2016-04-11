@@ -1,6 +1,6 @@
  coldBot
 ======
-A stupid bot that is (apparently) aware that he is a bot.
+A stupid bot that is (apparently) aware that he is a bot. :cake:
 
 A bot based on [NLTK](http://www.nltk.org/) bots.
 
