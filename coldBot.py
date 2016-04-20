@@ -121,9 +121,7 @@ pairs = (
     "I\'m not the bot that you are looking for.")),
 
   (r'(.*) time(.*)',
-  ( "I don\'t exist, therefore I don\'t care about time.",
-    "Have you ever seen a bot that has time appointments?",
-    "You humans talk about time because your is limited, I don't have this problem.",
+  ( "You humans talk about time because your is limited, I don't have this problem.",
     "Why don't you go build a time machine and leave me alone?")),
 
   (r'(.*)\?',
