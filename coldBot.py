@@ -154,8 +154,5 @@ def cold_chat():
 
     cold_chatbot.converse()
 
-def demo():
-    cold_chat()
-
 if __name__ == "__main__":
-    demo()
+    cold_chat()
